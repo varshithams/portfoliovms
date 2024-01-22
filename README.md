@@ -21,7 +21,7 @@ Deloitte was an eye-opener, Carnegie Mellon is the gate to bigger opportunities,
 4. And obviously learn how to tell stories with data!
 
    Post my graduation from CMU, I would like to pursue my career in the IT industry as a developer or data engineer.
-   ![mee](https://www.google.com/url?sa=i&url=https%3A%2F%2Fstock.adobe.com%2Fsearch%2Fimages%3Fk%3Dprogrammer%2Bcartoon&psig=AOvVaw25IFQQ3e-m6WyIQtWVY8Qk&ust=1705987717478000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPC_69eh8IMDFQAAAAAdAAAAABAD)
+   ![mee](https://t4.ftcdn.net/jpg/05/90/45/35/240_F_590453560_ugMuPncnGYB6XnJqmC8xiPQx4eg3jmMD.jpg)
 
 
 # Portfolio
@@ -31,10 +31,19 @@ Deloitte was an eye-opener, Carnegie Mellon is the gate to bigger opportunities,
 
 
 
+
+
+
 ## Skills
 C, C++, Java, SAP ABAP, Data Structures and Algorithms
 
+
+
 ## Accomplishments
+
+
+
+
 
 ## What else do I do?
 
