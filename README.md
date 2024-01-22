@@ -2,7 +2,7 @@
 This is my public portfolio for Telling Stories with Data at CMU!
 
 # About me
-I know coding enough to be a geek and can also train you to speak.
+I am Varshitha Mysore Suresh (she/her). I know coding enough to be a geek and can also train you to speak.
 
 Born to an engineering couple, one might say that the apple didn't fall too far away from the tree. I grew up with a fascination towards science and technology, and reached college with a will to be an engineer; the only hiccup was the confusion of what kind of engineer I wanted to be. That is when I dived into the ‘C’ of opportunities, and since then my life has become a code, constantly developing and consistently evolving. 
 
@@ -20,23 +20,21 @@ Deloitte was an eye-opener, Carnegie Mellon is the gate to bigger opportunities,
 3. Learn how to tailor narratives to suit specific target audiences.
 4. And obviously learn how to tell stories with data!
 
+   Post my graduation from CMU, I would like to pursue my career in the IT industry as a developer or data engineer.
+   ![mee](https://www.google.com/url?sa=i&url=https%3A%2F%2Fstock.adobe.com%2Fsearch%2Fimages%3Fk%3Dprogrammer%2Bcartoon&psig=AOvVaw25IFQQ3e-m6WyIQtWVY8Qk&ust=1705987717478000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPC_69eh8IMDFQAAAAAdAAAAABAD)
+
 
 # Portfolio
 
-## Projects
-1. ### Traffic Sign Recognition : [Publication](https://www.irjet.net/archives/V8/i6/IRJET-V8I6754.pdf)
-   Engineered a technology using Python enabling vehicles to detect and classify traffic signs through computer vision and
-advanced image processing techniques; launching a sign positioned before camera, system swiftly detects the sign, encloses
-with a green box, superimposes its name, and activates the voice output to promptly alert the driver with 92% accuracy
+## Final Project
 
 
-2. ### Blood bank management
-   Designed a web application that provides details of blood donors, blood banks, and hospitals at that location using MySQL as
-backend, HTML, CSS as frontend, and Django as a web framework; created a self-registration process to donate or get information if in need of blood
 
 
 ## Skills
 C, C++, Java, SAP ABAP, Data Structures and Algorithms
+
+## Accomplishments
 
 ## What else do I do?
 
