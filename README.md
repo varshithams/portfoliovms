@@ -27,7 +27,7 @@ Deloitte was an eye-opener, Carnegie Mellon is the gate to bigger opportunities,
 # Portfolio
 
 ## Final Project
- this is [part1](https://github.com/varshithams/portfolio/blob/main/final-project-partone)
+ this is [part1](final-project-partone)
 
 
 
