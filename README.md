@@ -47,10 +47,8 @@ C, C++, Java, SAP ABAP, Data Structures and Algorithms
 
 I indulge myself in [extra curricular activities](https://www.instagram.com/jci.mysore.brindhavan/).
 
-## Data
 
-# My GitHub Portfolio
 
-[![Visualization](https://data.oecd.org/chart/7kiX)](https://varshithams.github.io/portfolio/index.html)
+
 
 
