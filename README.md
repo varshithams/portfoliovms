@@ -51,8 +51,6 @@ I indulge myself in [extra curricular activities](https://www.instagram.com/jci.
 
 # My GitHub Portfolio
 
-Check out my visualization:
-
-<iframe src="<iframe src="https://data.oecd.org/chart/7kiX" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/7kiX" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2022</a></iframe>" width="600" height="400" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+[![Visualization](https://data.oecd.org/chart/7kiX)](https://varshithams.github.io/portfolio/index.html)
 
 
